@@ -1,4 +1,3 @@
-# Spotify-Clone
 # Spotify Clone 🎵
 
 A frontend UI clone inspired by the Spotify web interface, created using **HTML, CSS, and Tailwind CSS**.
